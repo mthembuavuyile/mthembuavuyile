@@ -4,32 +4,32 @@ Multistack Developer | Web, Mobile, and Desktop Applications
 
 ---
 
-I am a multidisciplinary software engineer with expertise spanning web, mobile (Android), and desktop application development. My approach is rooted in delivering robust, scalable, and maintainable solutions across diverse technology stacks.
+I am a multidisciplinary software engineer with comprehensive expertise in developing web, mobile (Android), and desktop applications. I deliver robust, scalable, and maintainable solutions across diverse technology stacks, grounded in best practices and a strong commitment to software quality.
 
 ## Core Competencies
 
 - **Languages:** Java, PHP, JavaScript  
 - **Databases:** MySQL, SQLite, Firebase  
-- **Frameworks & Platforms:** React, Node.js, Firebase  
+- **Frameworks, Libraries & Platforms:** React, Node.js, Firebase, LAMP  
 - **Mobile Development:** Android ecosystem  
-- **Security Certifications:** CompTIA Security+ | CompTIA A+  
 
 ## Technical Philosophy
 
-I focus on building systems that prioritize security, performance, and adaptability. My work reflects a commitment to best practices, clean architecture, and continuous learning in a rapidly evolving technical landscape.
+I emphasize building secure, high-performance systems designed for adaptability and long-term maintainability. My approach follows disciplined software development lifecycle (SDLC) practices, clean architecture principles, and continuous learning to stay aligned with evolving technologies.
 
-## Areas of Expertise
+## Certifications
 
-- Full lifecycle application development  
-- Cross-platform integration  
-- Database design and optimization  
-- Security principles and implementation  
-- Agile methodologies and DevOps practices  
+- CompTIA A+  
+- CompTIA Security+  
+- Certified Ethical Hacker (CEH)  
 
 ## Connect
 
-I am open to professional collaborations, knowledge exchange, and challenging projects that demand precision and innovation.
+I welcome professional collaborations, knowledge exchange, and challenging projects that require precision, innovation, and strategic thinking.
 
 ---
 
-*This profile serves as a concise summary of my skills and professional ethos. For specific projects and detailed portfolios, please refer to the repositories under this account.*
+*This profile provides a concise summary of my skills and professional ethos. For detailed projects and portfolios, please explore the repositories under this account.*
+
+Canonical Website: https://avuyilemthembu.co.za
+
