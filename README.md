@@ -1,6 +1,6 @@
 # Avuyile Mthembu
 
-Multistack Developer | Web, Mobile, and Desktop Applications
+Multistack Developer & Ethical hacker | Web, Mobile, and Desktop Applications
 
 ---
 
