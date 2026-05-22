@@ -1,20 +1,17 @@
-## Hi there I'm Avuyile 👋
+# Avuyile Mthembu
 
-[![Avuyile's GitHub stats](https://github-readme-stats.vercel.app/api?username=mthembuavuyile&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+Software developer and founder. I do full-stack web development with a focus on Java backends, and run Vylex, a software company based in South Africa.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mthembuavuyile)](https://github.com/anuraghazra/github-readme-stats)
+## Work
 
-<!--
-**mthembuavuyile/mthembuavuyile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Vylex** (Founder & Director) — Building practical software for real problems. Current focus is VyLab, a browser-based virtual science laboratory for South African high school learners studying Physical Sciences under the CAPS curriculum. Simulations run entirely client-side, built with React and TypeScript.
 
-Here are some ideas to get you started:
+More at [avuyilemthembu.co.za](https://avuyilemthembu.co.za)
 
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+Java · JavaScript · TypeScript · React · Node.js · Python · SQL
+
+## Links
+
+[avuyilemthembu.co.za](https://avuyilemthembu.co.za) · [GitHub](https://github.com/mthembuavuyile) · [LinkedIn](https://www.linkedin.com/in/mthembuavuyile/)
